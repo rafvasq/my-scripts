@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source .env
+source ~/my-scripts/.env
 
 ibmcloud login --apikey $ibmcloudkey
 
